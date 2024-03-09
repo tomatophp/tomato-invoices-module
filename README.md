@@ -1,3 +1,6 @@
+![Screenshot](https://github.com/tomatophp/tomato-invoices-module/blob/master/art/screenshot.png)
+
+
 # Tomato Invoices
 
 Invoices Generator and Management for Tomato PHP
@@ -5,7 +8,7 @@ Invoices Generator and Management for Tomato PHP
 ## Installation
 
 ```bash
-composer require tomatophp/TomatoInvoices
+composer require tomatophp/tomato-invoices-module
 ```
 
 ## Support
@@ -14,7 +17,7 @@ you can join our discord server to get support [TomatoPHP](https://discord.gg/Xq
 
 ## Docs
 
-you can check docs of this package on [Docs](https://docs.tomatophp.com/plugins/tomato-themes)
+you can check docs of this package on [Docs](https://docs.tomatophp.com/plugins/tomato-invoices)
 
 ## Changelog
 
